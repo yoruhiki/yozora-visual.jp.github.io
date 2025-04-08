@@ -1,26 +1,31 @@
-# Giới thiệu về Trang Web Cá Nhân
+# Profile Website Cá nhân
 
-Đây là mã nguồn cho trang web cá nhân của tôi, được thiết kế với hiệu ứng đẹp mắt, thanh menu điều hướng, trình chiếu hình ảnh tự động, và nhiều tính năng khác.
+- Đây là trang được tạo ra (cả cá nhân lẫn AI) với mục đích giới thiệu bản thân, các đường dẫn đến các tài khoản mạng xã hội nhằm đề phòng bị ~~mất tài khoản~~, chủ yếu pr để bạn bè lưu và có thể kết bạn lại mỗi khi bị ~~mất tài khoản~~.
+- Trong đây cũng có 1 số link bản thân muốn chia sẻ các thứ, từ links web, album ~~(không kể NSFW)~~ cho đến file game, thích thì nhích =))
+- Bạn ~~có thể~~ branch website hay lấy source code về và tinh chỉnh thành web của bạn ~~nếu muốn~~, nhưng hãy cho tôi biết vì nó không mất phí.
 
-## Cấu trúc Thư mục
 
-/your-project-folder 
--├── index.html 
--├── style.css 
--├── script.js 
--├── README.md 
--  └── assets 
--  ├── background.jpg 
--  ├── profile.jpg 
--  ├── slide1.jpg 
--  ├── slide2.jpg 
--  └── slide3.jpg
+## Làm sao để vào Website
 
-- index.html: Tệp HTML chính chứa cấu trúc của trang web.
-- style.css: Tệp CSS để định dạng và tạo kiểu cho trang web.
-- script.js: Tệp JavaScript để thêm các tương tác và hiệu ứng động.
-- assets: Thư mục chứa hình ảnh và tài nguyên khác.
+- Truy cập link [yozora-visual.jp.github.io](https://yozora-visual.jp.github.io)
 
-## Triển khai trên GitHub Pages
+## Content có trong web
 
-Để triển khai trang web: https://yozora-visual.jp.github.io
+- `index.html`: Dữ liệu chính của trang, dạng Static web
+- `style.css`: Bố cục website và 1 số tinh chỉnh, hiệu ứng và hiệu năng (di chuột vào avatar)
+- `script.js`: JavaScript để chạy 1 số hiệu ứng động, cụ thể là múi giờ các vùng
+- `assets`: nơi lưu trữ hình ảnh có trên websites
+    
+
+## Liên hệ
+
+Có thể liên hệ với tôi qua các info trong website này, hoặc các mạng XH như:
+- <P> Zalo: 0981920532 </P>
+- <P> Telegram: Anisphia_II </P>
+- <P> Line: yuevampire323 </P>
+
+Ưu tiên Zalo hoặc FB có trong link [websites](https://yozora-visual.jp.github.io) nhé, không tiện ghi vì tôi bị ~~ISSUE~~ có khả năng bị Zucc bonk acc bất cứ lúc nào :v
+
+<hr/>
+
+date --2025年04月08日--
