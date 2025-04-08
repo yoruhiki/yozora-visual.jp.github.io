@@ -5,16 +5,16 @@
 ## Cấu trúc Thư mục
 
 /your-project-folder 
-├── index.html 
-├── style.css 
-├── script.js 
-├── README.md 
-  └── assets 
-  ├── background.jpg 
-  ├── profile.jpg 
-  ├── slide1.jpg 
-  ├── slide2.jpg 
-  └── slide3.jpg
+-├── index.html 
+-├── style.css 
+-├── script.js 
+-├── README.md 
+-  └── assets 
+-  ├── background.jpg 
+-  ├── profile.jpg 
+-  ├── slide1.jpg 
+-  ├── slide2.jpg 
+-  └── slide3.jpg
 
 - index.html: Tệp HTML chính chứa cấu trúc của trang web.
 - style.css: Tệp CSS để định dạng và tạo kiểu cho trang web.
